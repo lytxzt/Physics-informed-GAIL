@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+tqdm
+torch
+torch-geometric
+torch-scatter
+openpyxl

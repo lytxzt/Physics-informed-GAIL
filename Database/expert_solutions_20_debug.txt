@@ -1,0 +1,7 @@
+Saved: scenario=1, swarm_size=20, damage_ratio=0.5, step=14
+Saved: scenario=2, swarm_size=20, damage_ratio=0.5, step=11
+Saved: scenario=3, swarm_size=20, damage_ratio=0.5, step=17
+Saved: scenario=4, swarm_size=20, damage_ratio=0.5, step=26
+Saved: scenario=5, swarm_size=20, damage_ratio=0.5, step=32
+damage_ratio=0.5, average steps=20.0
+---------------------------------------------------------------------------------
