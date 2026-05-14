@@ -168,6 +168,7 @@ PhyGAIL/
 ## Notes
 
 - The default pretrained checkpoint path is `models/model_best.pth`.
+- The lightweight pretrained actor path is `models/actor_best.pth`.
 - Training outputs are written to `artifacts/`.
 - GPU selection follows `CUDA_VISIBLE_DEVICES` if it is already set in the shell.
 - `CR-MGC` is retained with `use_meta=False`, so the exported repository does not require meta-parameter files.
